@@ -1,5 +1,6 @@
 KISS
 ======
+## 启动器设置, 用户查询通讯录,查询记录等
 KISS is a *blazingly* fast launcher for android requiring nearly no memory to run.
 
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/app/fr.neamar.kiss)
